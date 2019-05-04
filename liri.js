@@ -35,7 +35,7 @@ function UserInputs (userOption, inputParameter){
 
 //Concert Info: Bands in Town
 function showConcertInfo(inputParameter){
-    var queryUrl = "https://rest.bandsintown.com/artists/" + inputParameter + "/events?app_id=";
+    var queryUrl = "https://rest.bandsintown.com/artists/" + inputParameter + "/events?app_id=codingbootcamp";
     request(queryUrl, function(error, response, body) {
     //request is successful
     if (!error && response.statusCode === 200) {
@@ -146,7 +146,13 @@ function getRottenTomatoesRatingObject (data) {
   }
   
   function getRottenTomatoesRatingValue (data) {
-    return getRottenTomatoesRatingObject(data).Value;
+      
+    if (getRottenTomatoesRatingObject(data)) {
+       return getRottenTomatoesRatingObject(data).Value;
+    }
+    else {
+        return "No rating found"
+    }
   }
 
 //reading out of random.txt file  
