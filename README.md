@@ -20,14 +20,14 @@ Liri is an application with the sole intention of finding you movies, concerts, 
   
 # Instructions on how to use Liri
 
-  *Open Your terminal such as bash or vs code terminal
-  *Select one of the lines of code above
-  *Enjoy getting your information!
+  * Open Your terminal such as bash or vs code terminal
+  * Select one of the lines of code above
+  * Enjoy getting your information!
   
 # Software to create Liri
 
-javascript
-VS code
-GitBash
-Git
+javascript, 
+VS code, 
+GitBash, 
+Git, 
 NodeJS
