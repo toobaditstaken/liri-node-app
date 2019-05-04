@@ -1,0 +1,308 @@
+**********MOVIE INFO*********
+Title: Matrix
+Release Year: 1993–
+IMDB Rating: 8.2
+**********MOVIE INFO*********
+Title: Matrix
+Release Year: 1993–
+IMDB Rating: 8.2
+**********MOVIE INFO*********
+Title: Matrix
+Release Year: 1993–
+IMDB Rating: 8.2
+**********SONG INFO*********
+0
+song name: Break Ya Neck
+preview song: https://p.scdn.co/mp3-preview/800554e3fb6c92da9e142f681fb65f7dd46a855a?cid=c4c4cdaf61844ea798694916a0b07cbd
+album: Genesis
+artist(s): Busta Rhymes
+*****************************
+**********SONG INFO*********
+1
+song name: Genesis
+preview song: https://p.scdn.co/mp3-preview/f65d1db711cd2b661a0ec3b96e0b5fa620184776?cid=c4c4cdaf61844ea798694916a0b07cbd
+album: Visions
+artist(s): Grimes
+*****************************
+**********SONG INFO*********
+2
+song name: Invisible Touch - 2007 Remaster
+preview song: https://p.scdn.co/mp3-preview/6b31e05872291656504cb5f0536114cf99a34752?cid=c4c4cdaf61844ea798694916a0b07cbd
+album: Invisible Touch
+artist(s): Genesis
+*****************************
+**********SONG INFO*********
+3
+song name: Genesis
+preview song: https://p.scdn.co/mp3-preview/4c535a6713d98bb7c5a3ca409146dad593f6d3b7?cid=c4c4cdaf61844ea798694916a0b07cbd
+album: Life
+artist(s): Jinsang
+*****************************
+**********SONG INFO*********
+4
+song name: Genesis
+preview song: https://p.scdn.co/mp3-preview/0425f3174435ec2c2c7bc87bca6861b38c74fc72?cid=c4c4cdaf61844ea798694916a0b07cbd
+album: Dua Lipa (Deluxe)
+artist(s): Dua Lipa
+*****************************
+**********SONG INFO*********
+5
+song name: Dapper
+preview song: https://p.scdn.co/mp3-preview/f155bfbcb870d7979a56c0b25cab9db098423a22?cid=c4c4cdaf61844ea798694916a0b07cbd
+album: Genesis
+artist(s): Domo Genesis
+*****************************
+**********SONG INFO*********
+6
+song name: That's All - 2007 Remaster
+preview song: https://p.scdn.co/mp3-preview/4e266952ac278d10b813d512ab6ca314af90d97c?cid=c4c4cdaf61844ea798694916a0b07cbd
+album: Genesis
+artist(s): Genesis
+*****************************
+**********SONG INFO*********
+7
+song name: Genesis
+preview song: https://p.scdn.co/mp3-preview/880fab819bd2d62dddd2c47c7f930a52b6059ae7?cid=c4c4cdaf61844ea798694916a0b07cbd
+album: Ethernet
+artist(s): Wifisfuneral
+*****************************
+**********SONG INFO*********
+8
+song name: Working For It - Bonus Track
+preview song: https://p.scdn.co/mp3-preview/5e72c47c060e697fb2939217a110c72de5388e70?cid=c4c4cdaf61844ea798694916a0b07cbd
+album: Genesis Series
+artist(s): ZHU
+*****************************
+**********SONG INFO*********
+9
+song name: Genesis
+preview song: https://p.scdn.co/mp3-preview/c93eb226b0227e538effb81c0b1d75d07cdb08c3?cid=c4c4cdaf61844ea798694916a0b07cbd
+album: Justice
+artist(s): Justice
+*****************************
+**********SONG INFO*********
+10
+song name: Land of Confusion - 2007 Remaster
+preview song: https://p.scdn.co/mp3-preview/c24bcc0db40afee4c8ca780783fb2c4d08057b66?cid=c4c4cdaf61844ea798694916a0b07cbd
+album: Invisible Touch
+artist(s): Genesis
+*****************************
+**********SONG INFO*********
+11
+song name: Genesis
+preview song: https://p.scdn.co/mp3-preview/6a909851d812c77974c3dbb5dd586f1833caec9a?cid=c4c4cdaf61844ea798694916a0b07cbd
+album: Genesis
+artist(s): Daniela Andrade
+*****************************
+**********SONG INFO*********
+12
+song name: Coming Back
+preview song: https://p.scdn.co/mp3-preview/d3217541ca6397501ab2700dac73d98e8683317c?cid=c4c4cdaf61844ea798694916a0b07cbd
+album: Genesis
+artist(s): Domo Genesis
+*****************************
+**********SONG INFO*********
+13
+song name: The Day
+preview song: https://p.scdn.co/mp3-preview/21f91e485a12f0cd13d496a92547be4ff4f19414?cid=c4c4cdaf61844ea798694916a0b07cbd
+album: Genesis
+artist(s): NateWantsToBattle
+*****************************
+**********SONG INFO*********
+14
+song name: I Can't Dance - 2007 Remastered Version
+preview song: https://p.scdn.co/mp3-preview/deff6319204747d352cd53ed0c072c48fe8d94ff?cid=c4c4cdaf61844ea798694916a0b07cbd
+album: We Can't Dance
+artist(s): Genesis
+*****************************
+**********SONG INFO*********
+15
+song name: Consecutive Normal Punches (feat. Buddy)
+preview song: https://p.scdn.co/mp3-preview/c6c4e3119f8efd28e80a704ccfbf1a8aedf664fd?cid=c4c4cdaf61844ea798694916a0b07cbd
+album: Facade Records - EP
+artist(s): Domo Genesis
+*****************************
+**********SONG INFO*********
+16
+song name: The Genesis
+preview song: https://p.scdn.co/mp3-preview/68a414c6e228a771a115383eb4880742ce4da306?cid=c4c4cdaf61844ea798694916a0b07cbd
+album: Illmatic
+artist(s): Nas
+*****************************
+**********SONG INFO*********
+17
+song name: Robes (feat. Domo Genesis, Earl Sweatshirt)
+preview song: https://p.scdn.co/mp3-preview/b8382f6d04c3dd1df1df6e95193cf6b4d548f0ae?cid=c4c4cdaf61844ea798694916a0b07cbd
+album: Piñata
+artist(s): Freddie Gibbs
+*****************************
+**********SONG INFO*********
+18
+song name: Cruel Angel's Thesis (Neon Genesis Evangelion)
+preview song: https://p.scdn.co/mp3-preview/66a651a676a4dbe357d704c5004e7fbcec8f12ec?cid=c4c4cdaf61844ea798694916a0b07cbd
+album: Nostalgia
+artist(s): AmaLee
+*****************************
+**********SONG INFO*********
+19
+song name: Rusty
+preview song: https://p.scdn.co/mp3-preview/d41201de6c4939b96de528e1f516fdbf831abe86?cid=c4c4cdaf61844ea798694916a0b07cbd
+album: Wolf
+artist(s): Tyler, The Creator
+*****************************
+**********MOVIE INFO*********
+Title: Matrix
+Release Year: 1993–
+IMDB Rating: 8.2
+**********EVENT INFO*********
+0
+Name of the Venue: Splash House: June 7-9, 2019
+Venue Location: Palm Springs
+Date of the Event: 2019-06-07T19:00:33
+*****************************
+**********MOVIE INFO*********
+Title: Matrix
+Release Year: 1993–
+IMDB Rating: 8.2
+**********MOVIE INFO*********
+Title: Matrix
+Release Year: 1993–
+IMDB Rating: 8.2
+**********MOVIE INFO*********
+Title: The Avengers
+Release Year: 2012
+IMDB Rating: 8.1
+Rotten Tomatoes Rating: 92%
+Country of Production: USA
+Language: English, Russian, Hindi
+Plot: Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+Actors: Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth
+*****************************
+**********MOVIE INFO*********
+Title: Inception
+Release Year: 2010
+IMDB Rating: 8.8
+Rotten Tomatoes Rating: 86%
+Country of Production: USA, UK
+Language: English, Japanese, French
+Plot: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.
+Actors: Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy
+*****************************
+**********MOVIE INFO*********
+Title: Inception
+Release Year: 2010
+IMDB Rating: 8.8
+**********MOVIE INFO*********
+Title: Inception
+Release Year: 2010
+IMDB Rating: 8.8
+Rotten Tomatoes Rating: 86%
+Country of Production: USA, UK
+Language: English, Japanese, French
+Plot: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.
+Actors: Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy
+*****************************
+**********MOVIE INFO*********
+Title: Matrix
+Release Year: 1993–
+IMDB Rating: 8.2
+**********MOVIE INFO*********
+Title: Matrix
+Release Year: 1993–
+IMDB Rating: 8.2
+**********MOVIE INFO*********
+Title: Matrix
+Release Year: 1993–
+IMDB Rating: 8.2
+**********MOVIE INFO*********
+Title: Inception
+Release Year: 2010
+IMDB Rating: 8.8
+Rotten Tomatoes Rating: 86%
+Country of Production: USA, UK
+Language: English, Japanese, French
+Plot: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.
+Actors: Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy
+*****************************
+**********MOVIE INFO*********
+Title: Matrix
+Release Year: 1993–
+IMDB Rating: 8.2
+**********MOVIE INFO*********
+Title: The Shawshank Redemption
+Release Year: 1994
+IMDB Rating: 9.3
+Rotten Tomatoes Rating: 91%
+Country of Production: USA
+Language: English
+Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+*****************************
+**********MOVIE INFO*********
+Title: The Shawshank Redemption
+Release Year: 1994
+IMDB Rating: 9.3
+Rotten Tomatoes Rating: 91%
+Country of Production: USA
+Language: English
+Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+*****************************
+**********MOVIE INFO*********
+Title: Matrix
+Release Year: 1993–
+IMDB Rating: 8.2
+**********MOVIE INFO*********
+Title: Matrix
+Release Year: 1993–
+IMDB Rating: 8.2
+**********MOVIE INFO*********
+Title: Matrix
+Release Year: 1993–
+IMDB Rating: 8.2
+Rotten Tomatoes Rating: undefined
+Country of Production: Canada
+Language: English
+Plot: Steven Matrix is one of the underworld's foremost hitmen until his luck runs out, and someone puts a contract out on him. Shot in the forehead by a .22 pistol, Matrix "dies" and finds ...
+Actors: Nick Mancuso, Phillip Jarrett, Carrie-Anne Moss, John Vernon
+*****************************
+**********MOVIE INFO*********
+Title: Matrix
+Release Year: 1993–
+IMDB Rating: 8.2
+Rotten Tomatoes Rating: No rating found
+Country of Production: Canada
+Language: English
+Plot: Steven Matrix is one of the underworld's foremost hitmen until his luck runs out, and someone puts a contract out on him. Shot in the forehead by a .22 pistol, Matrix "dies" and finds ...
+Actors: Nick Mancuso, Phillip Jarrett, Carrie-Anne Moss, John Vernon
+*****************************
+**********MOVIE INFO*********
+Title: Matrix
+Release Year: 1993–
+IMDB Rating: 8.2
+Rotten Tomatoes Rating: No rating found
+Country of Production: Canada
+Language: English
+Plot: Steven Matrix is one of the underworld's foremost hitmen until his luck runs out, and someone puts a contract out on him. Shot in the forehead by a .22 pistol, Matrix "dies" and finds ...
+Actors: Nick Mancuso, Phillip Jarrett, Carrie-Anne Moss, John Vernon
+*****************************
+**********MOVIE INFO*********
+Title: Matrix
+Release Year: 1993–
+IMDB Rating: 8.2
+Rotten Tomatoes Rating: No rating found
+Country of Production: Canada
+Language: English
+Plot: Steven Matrix is one of the underworld's foremost hitmen until his luck runs out, and someone puts a contract out on him. Shot in the forehead by a .22 pistol, Matrix "dies" and finds ...
+Actors: Nick Mancuso, Phillip Jarrett, Carrie-Anne Moss, John Vernon
+*****************************
+**********MOVIE INFO*********
+Title: Matrix
+Release Year: 1993–
+IMDB Rating: 8.2
+Rotten Tomatoes Rating: No rating found
+Country of Production: Canada
+Language: English
+Plot: Steven Matrix is one of the underworld's foremost hitmen until his luck runs out, and someone puts a contract out on him. Shot in the forehead by a .22 pistol, Matrix "dies" and finds ...
+Actors: Nick Mancuso, Phillip Jarrett, Carrie-Anne Moss, John Vernon
+*****************************
